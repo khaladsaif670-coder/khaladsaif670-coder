@@ -1,4 +1,4 @@
-Hi I am **Seif Eldin Khaled**, software developer focused on **Front-End Development**, building interactive web applications, and writing clean, scalable code.
+Hi I am **Saif Eldein Khaled**, a passionate software developer focused on **Front-End Development**, building interactive web applications, and writing clean, scalable code.
 
 Currently, I'm expanding my skills in **Web Technologies**, UI/UX implementation, and software architecture while continuously working on real-world projects.
 
@@ -21,7 +21,10 @@ Currently, I'm expanding my skills in **Web Technologies**, UI/UX implementation
 
 ### 🛢️ Databases
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Mosquitto](https://img.shields.io/badge/mosquitto-%233B2E58.svg?style=for-the-badge&logo=eclipse-mosquitto&logoColor=white)
-### ⚙️ Tools & DevOps
+
+### ⚙️ Tools, Hardware & DevOps
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Mosquitto](https://img.shields.io/badge/mosquitto-%233B2E58.svg?style=for-the-badge&logo=eclipse-mosquitto&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
