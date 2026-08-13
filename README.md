@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&center=true&vCenter=true&width=700&lines=Saif+Eldein+Khaled;Front-End+Developer;Software+Developer;Embedded+Systems+Aspiring+Engineer">
+</p>
+
+---
+
+
 Hi I am **Saif Eldein Khaled**, a passionate software developer focused on **Front-End Development**, building interactive web applications, and writing clean, scalable code.
 
 Currently, I'm expanding my skills in **Web Technologies**, UI/UX implementation, and software architecture while continuously working on real-world projects.
