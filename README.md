@@ -21,7 +21,7 @@ Currently, I'm expanding my skills in **Web Technologies**, UI/UX implementation
 
 ### 🛢️ Databases
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
+![Mosquitto](https://img.shields.io/badge/mosquitto-%233B2E58.svg?style=for-the-badge&logo=eclipse-mosquitto&logoColor=white)
 ### ⚙️ Tools & DevOps
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
