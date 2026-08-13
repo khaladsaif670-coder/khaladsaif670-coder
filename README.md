@@ -1,4 +1,4 @@
-Hi I am **Seif Eldin Khaled**, a passionate software developer focused on **Front-End Development**, building interactive web applications, and writing clean, scalable code.
+Hi I am **Seif Eldin Khaled**, software developer focused on **Front-End Development**, building interactive web applications, and writing clean, scalable code.
 
 Currently, I'm expanding my skills in **Web Technologies**, UI/UX implementation, and software architecture while continuously working on real-world projects.
 
@@ -10,6 +10,7 @@ Currently, I'm expanding my skills in **Web Technologies**, UI/UX implementation
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### 🌐 Web & Frontend
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
